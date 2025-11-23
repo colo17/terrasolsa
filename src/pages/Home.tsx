@@ -5,7 +5,7 @@ const businessLines = [
   {
     title: "Maquinaria agrícola",
     description:
-      "Equipos para siembra, cosecha, laboreo y manejo de cultivos, adaptados a la realidad productiva uruguaya."
+      "Equipos para siembra, cosecha, laboreo y manejo de cultivos, adaptados a la realidad productiva."
   },
   {
     title: "Repuestos y componentes",
@@ -42,7 +42,7 @@ export function Home() {
               con un servicio técnico cercano y especializado.
             </p>
             <p className="mt-3 text-sm text-slate-700">
-              Acompañamos proyectos en todo Uruguay, desde la elección del
+              Acompañamos proyectos en todo el Mundo, desde la elección del
               equipo hasta la postventa, buscando siempre maximizar la
               productividad y la confiabilidad de cada instalación.
             </p>

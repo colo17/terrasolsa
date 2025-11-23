@@ -24,7 +24,7 @@ export function Hero() {
             DESDE 1983
           </p>
           <h1 className="mt-3 text-3xl font-semibold leading-tight md:text-4xl">
-            Maquinaria y repuestos agroindustriales para todo Uruguay
+            Maquinaria y repuestos agroindustriales para todo el mundo
           </h1>
           <p className="mt-4 text-sm text-emerald-100 md:text-base">
             Terrasol S.A. representa, importa y distribuye maquinaria y equipos

@@ -21,7 +21,7 @@ export function Maquinaria() {
     <div className="mx-auto max-w-6xl px-4 py-12">
       <h1 className="text-2xl font-semibold text-slate-900">Maquinaria</h1>
       <p className="mt-4 text-sm text-slate-700">
-        Conectamos al mercado uruguayo con una amplia gama de maquinaria
+        Conectamos al mercado mundial con una amplia gama de maquinaria
         agrícola y agroindustrial proveniente de Asia, Brasil y Europa.
       </p>
 
