@@ -54,7 +54,7 @@ export function Hero() {
               <Stat label="+40 años" value="Experiencia en agroindustria" />
               <Stat label="Importación" value="Equipos y repuestos" />
               <Stat label="Asesoramiento" value="Técnico especializado" />
-              <Stat label="Cobertura" value="En todo el país" />
+              <Stat label="Cobertura" value="America del Sur, Europa y Asia" />
             </div>
           </div>
         </div>
