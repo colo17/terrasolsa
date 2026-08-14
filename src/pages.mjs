@@ -169,8 +169,8 @@ export function home() {
         <div class="stat-row">
           ${empresa.cifras.map((c) => `<div class="stat"><strong>${esc(c.valor)}</strong><span>${esc(c.label)}</span></div>`).join('\n          ')}
         </div>
-        <div class="split__media" style="margin-top:1.5rem">
-          <img src="assets/img/lineas/arroz-grano.jpg" alt="Grano de arroz descascarado" loading="lazy" width="500" height="505">
+        <div class="split__media split__media--marca" style="margin-top:1.5rem">
+          <img src="assets/img/marca/green-horse-terrasol.jpg" alt="GREEN HORSE — TERRASOL S.A." loading="lazy" width="1400" height="888">
         </div>
       </div>
     </div>

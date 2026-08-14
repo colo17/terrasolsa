@@ -637,6 +637,9 @@ p { text-wrap: pretty; }
 .split { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
 .split__media { border-radius: var(--radius-lg); overflow: hidden; background: var(--bg-soft); }
 .split__media img { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+/* La placa de marca se muestra entera, sin recortar por el 4/3 de las fotos. */
+.split__media--marca { background: transparent; }
+.split__media--marca img { aspect-ratio: auto; height: auto; object-fit: contain; }
 
 .cta {
   position: relative; overflow: hidden;
