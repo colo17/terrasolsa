@@ -1,0 +1,766 @@
+﻿
+===== FILE: _80_.html =====
+.. TERRASOL ..
+- Limpieza y Prelimpieza
+- Maquinaria Sacapiedra
+- Proceso de Descascarado
+- Separado y Clasificado
+- Blanqueado o BruÃ±ido
+- ClasificaciÃ³n de Quebrados
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Limpieza y Prelimpieza
+- Plansifter, Tamizado de Trigo
+- Banco de CilÃ­ndros para Trigo
+- Disgregadores y purificadores
+- Quita Impuresas y Fitro de Manga
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Silos Galvanizados Fondo CÃ³nico
+- Silos Galvanizados Fondo Plano
+- Silos Redondos (?)
+- Elevadores
+- Cinta Trasportadora
+- Completely different.
+- Balanzas de Flujo
+- Embolsadora al Vacio
+- Cosedora
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- And now...
+- For something...
+- Completely different.
+
+===== FILE: _80_cpanel.html =====
+cPanel Redirect
+Connection Selection ....
+trying: preferred
+If you are not behind a firewall that blocks port 2082
+Enter Here
+If you are behind a firewall
+and can not connect to port 2082
+Enter Here
+
+===== FILE: banco_trigo.html.html =====
+.. TERRASOL ..
+MS Roller Miller
+MSD Roller Miller
+LSM20 Roller Miller
+
+===== FILE: banco_trigo_LSM20.html.html =====
+LSM20 ROLLER MILLER - Banco de Cílindros
+Las planchas de acero han sido cortadas con láser y ensamblados en una prensa CNC.
+Construido en dos partes incluyendo una base de hierro moldeado y una estructura de acero.
+Superficie pintada con pintura de spray electrostática.
+Capa externa de acero finalizada con cocción en horno.
+Diseño modular removible de los rodillos de alimentación.
+Ajuste manual de rueda, proveyendo un control de los rodillos de molido usando cilindros de aire.
+Doble canal de aspiración para reducir el calor y maximizar el flujo del producto.
+El molino de rodillo puede ser diseñado y ajustado a sus requerimientos.
+Controles eléctricos neumáticos.
+Tamaños de rodillo: 250 mm o 350 mm de diámetro
+4 u 8 rodillos por unidad.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: banco_trigo_MS.html.html =====
+MS ROLLER MILLER - Banco de Cílindros
+Las planchas de acero han sido cortadas con láser y ensamblados en una prensa CNC.
+Construido en dos partes incluyendo una base de hierro moldeado y una estructura de acero.
+Superficie pintada con pintura de spray electrostática.
+Capa externa de acero finalizada con cocción en horno.
+Diseño modular removible de los rodillos de alimentación.
+Ajuste manual de rueda, proveyendo un control de los rodillos de molido usando cilindros de aire.
+Doble canal de aspiración para reducir el calor y maximizar el flujo del producto.
+El molino de rodillo puede ser diseñado y ajustado a sus requerimientos.
+Controles eléctricos neumáticos.
+Tamaños de rodillo: 250 mm o 350 mm de diámetro
+4 u 8 rodillos por unidad.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: banco_trigo_MSD.html.html =====
+MSD ROLLER MILLER - Banco de Cílindros
+El rollermill a sido diseñado en sistemas CAD. Las planchas de acero han sido cortadas con láser y el ensamblado de los componentes a sido hecho con numéricos centros de control.
+Cuerpo de planchas de acero inoxidable y base de una pieza entera de acero fundido sólido
+Los rodillos de alimentación están dirigidos por un motor electrónico controlado vía un inversor de variación automática de la velocidad.
+Diseño del sistema de alimentación removible.
+La transmisión entre lso dos rodillos de moler se realiza por medio de una correa dentada.
+Remover los rodillos de moler se realiza en un simple bloque, de manera simple y rápida.Cojinetes SFK, cilindros neumáticos SMC y elementos electrónicos Siemens.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: blanqueado_arroz.html.html =====
+.. TERRASOL ..
+Blanqueador Vertical MNML40
+Separador de Alta Eficiencia MNML46
+Blanqueador Horizontal MNMS30A
+Pulidora Horizontal CM
+
+===== FILE: blanqueado_arroz_CM.html.html =====
+Pulidora de Agua Horizontal CM Simple y Doble
+Estos modelos horizontales de alta capacidad de producción, construida dentro de las técnicas de última generación y desarrolladas por el departamento de ingeniería son la mejor noticia para el industrial arrocero surgida en los últimos años.
+Producidos en dos modelos con una y dos cámaras de pulido y dos pre acondicionadores.
+Sus principales características son las siguientes:
+Diseño de ultima generación, atractiva apariencia, construcción robusta, fácil y seguro manejo.
+La existencia de humidificadores permite el uso de la cámara de pulido en su totalidad, diferente de los equipos tradicionales tipo KB y otros en que parte de la cámara es usada para la humidificación y parte utilizada para el pulido propiamente dicho, sin la necesaria homogeneización.
+Zarandas de 12 caras, diferentes de las tradicionales de 8 caras. Esto hace que la cámara de pulido sea menos agresiva, dañando menos a los granos. Zarandas de acero inoxidable alemán endurecido de alta calidad;
+Economiza energía, ya que el pulidor doble realiza el trabajo de tres pulidores horizontales convencionales usando apenas 70 cv, mientras que tres pulidores tradicionales usarían 120cv.
+Economiza área construida y de equipos de elevación y tempering.
+El pulidor doble, ocupa el espacio de un pulidor convencional y realiza un pulido equivalente a 3 pasadas en un pulidor de este tipo.
+La existencia de humidificadores elimina el uso de silos de tempering y de varios equipos de movimiento, siendo así un proyecto más compacto, más económico y de más fácil manejo.
+Inyectores de agua accionados por una bomba de alta presión, evitando el uso de aire comprimido y por consecuencia evitando sus costos y riesgos.
+Sistema de sensores de seguridad que cortan el agua en el momento exacto de carencia de arroz en el sistema.
+Equipos completos, compuesto con cuadro de comando y controles, sistema de filtrado y bombeado de agua, sistema de regulado de picos inyectores de agua en los humidificadores y en los ejes del equipo y sistema de control de la temperatura de salida de granos de arroz.
+MODELO
+PRODUCCION
+POTENCIA kw
+DIMENSIONES
+CM 14 X 1
+1,0 ~1,5 TON/h
+22 ~30 + 5,5
+1480X740X2150
+CM 16 X 1
+1,5 ~2,0 TON/h
+30 ~37 + 7,5
+1700X850X2420
+CM 17 X 1
+2,0 ~3,0 TON/h
+37 + 7,5
+2130X720X2170
+CM 18 X 1
+2,5 ~3,5 TON/h
+37 ~45 + 7,5
+2070X1440X1990
+CM 21 X 1
+3,5 ~4,5 TON/h
+45 ~55 + 7,5
+2940X1540X2070
+CM 12 X 2
+1,5 ~2,0 TON/h
+30 ~37 + 5,5
+1620X1300X2420
+CM 16 X 2
+2,5 ~3,2 TON/h
+37 ~55 + 7,5
+1800X1450X2670
+CM 18 X 2
+2,8 ~3,5 TON/h
+45 ~55 + 11,0
+2130x1620X2800
+CM 21 X 2
+3,5 ~5,0 TON/h
+55 ~75 + 11,0
+2035X1470X2605
+Potencia 200 – 300 mmH20- Vol.3.500-4.000m3/hora - Velocidad 19 – 20 m/segundo
+Observaciones: x1 = una cámara de pulido, x2 = dos cámaras de pulido
+
+===== FILE: blanqueado_arroz_MNML40.html.html =====
+Blanqueador Vertical MNML 40 de Alta Eficiencia
+Diseñado y producido dentro de las mejores técnicas y equipos disponibles, estos equipos de muy linda apariencia y muy buena calidad, emplean los mejores materiales para su fabricación como aceros y rulemanes de origen alemán su excelente terminación es la garantía es lo que garantiza por sí mismo la mejor calidad entre los equipos semejantes.
+Sus principales características son:
+ Excelente durabilidad, adoptando normas de calidad internacionales, Complementado con las partes importadas de la mejor calidad.
+ Piezas de desgaste de alta calidad, fabricadas con los mejores equipos y las mejores materias primas.
+ Equipado con eficientes controles de amperaje y condiciones de trabajo como presión negativa etc.,
+ Controles visibles con la posibilidad de la automatización total, el diseño interno permite remover con facilidad el salvado, trabaja con presión controlada realizando menor esfuerzo sobre los granos y menor calentamiento de los mismos.
+ Garantizando el menor porcentaje de granos quebrados.
+Modelo
+MNML 40
+Capacidad
+4,0 ~5,0 ton/h
+Potencia kw
+37 ~45
+Dimensiones
+mm
+1665x1028
+x1990
+Peso Kg
+1.200
+
+===== FILE: blanqueado_arroz_MNML46.html.html =====
+Separador MNML 46 de Alta Eficiencia
+Diseñado y producido dentro de las mejores técnicas y equipos disponibles, estos equipos de muy linda apariencia y muy buena calidad, emplean los mejores materiales para su fabricación como aceros y rulemanes de origen alemán su excelente terminación es la garantía es lo que garantiza por sí mismo la mejor calidad entre los equipos semejantes.
+Sus principales características son:
+ Excelente durabilidad, adoptando normas de calidad internacionales, Complementado con las partes importadas de la mejor calidad.
+ Piezas de desgaste de alta calidad, fabricadas con los mejores equipos y las mejores materias primas.
+ Equipado con eficientes controles de amperaje y condiciones de trabajo como presión negativa etc.,
+ Controles visibles con la posibilidad de la automatización total, el diseño interno permite remover con facilidad el salvado, trabaja con presión controlada realizando menor esfuerzo sobre los granos y menor calentamiento de los mismos.
+ Garantizando el menor porcentaje de granos quebra.
+Modelo
+MNML 46
+Capacidad:
+5,0 ~ 7,0 ton/h
+Potencia kw:
+45 ~ 55
+Velocidad de Rotación del eje principal (rpm) :
+455 - 580
+Presión Negativa (mmH2O):
+100 - 150
+Volumen de Aire M3/mm :
+50
+Peso Kg:
+1.300 aprox.
+
+===== FILE: blanqueado_arroz_MNMS30.html.html =====
+Blanqueadora Horizontal MNMS 30A
+El nuevo blanqueador horizontal MNMS 30A, proviene de una línea tradicional de blanqueadores desarrollada inicialmente en Japón, compuesta con nueva tecnología de producción en conjunción con materiales nobles cómo los aceros alemanes.
+Su construcción es robusta, compacta, con excelente terminación y muy linda apariencia lo que valoriza su industria y la de sus clientes.
+Baja temperatura de blanqueado: con una fuerte presión negativa, este equipo funciona con baja temperatura en los granos lo que genera una menor cantidad de granos partidos y la extracción integral del afrechillo/salvado producido. Es el equipo ideal para unidades de producción hasta 100 toneladas/día, por su precio productividad y fácil manejo.
+Características principales:
+Excelente apariencia;
+Mecánicamente estable, de construcción compacta, fácil manejo y manutención
+Con su fuerte presión negativa, se ve una disminución de granos quebrados, el arroz producido es de la más alta calidad y la retirada del afrechillo/salvado es también muy potente.
+Tiene un display que indica la presión negativa y permite su ajuste;
+Su rotación puede ser ajustada para obtener el mejor bruñimiento de todas las variedades del arroz.
+Modelo
+MNMS 30A
+(toneladas/hora
+4 ~ 5
+Potencia kw:
+37 ~ 45
+Velocidad de Rotación del eje principal (rpm) :
+630 - 930
+Presión Negativa (mmH2O):
+150 - 200
+
+===== FILE: clasificado_arroz.html.html =====
+.. TERRASOL ..
+Clasificador Vibratorio MMJP
+Trieur de Alta Precisión MDJY
+
+===== FILE: clasificado_arroz_MDJY.html.html =====
+Trieur de Alta Precisión MDJY
+Disponemos de varios modelos de trieurs de alta precisión, con un gran número de tamaños de alvéolos para ejecutar con perfección la selección deseada.
+Al principio, trabajamos enviando muestras de los productos que el comprador del TRIEUR seleccione (granos enteros, ¾, ½, y quebrados chicos) de esa forma su equipo es fabricado de acuerdo con su producto, personalizado.
+Las características principales de nuestros trieurs son las siguientes.
+Construcción sólida y elegante, excelente apariencia y mecánica de alta calidad
+Diseño moderno, ocupa poco espacio en su industria.
+Sistema de alimentación de los cilindros de clasificación especialmente diseñado para permitir mayor productividad y homogeneidad en la alimentación.
+Cilindros con superficie endurecida para su mayor durabilidad.
+Accionado individual de los cilindros con motos reductores.
+Modelo
+Producción
+Potencia kw
+Peso Kg
+Dimensiones mm
+MDJY 50 X 3
+3.3 TON/h
+0.75 X 3
+1000
+3000X640X2265
+
+===== FILE: clasificado_arroz_MMJP.html.html =====
+Clasificador Vibratorio MMJP de Arroz y otro Granos
+Se trata de un clasificador vibratorio que acumula las funciones de las zarandas de clasificación y de los trieurs. Es ideal para empresas de pequeño y medio porte porque reduce en gran cantidad la inversión en equipos además de ocupar una pequeña área construida eliminando además varios equipos de transporte, reduciendo de esta manera los costos operacionales y de manutención.
+Dispone de centenas de telas de especificaciones diferentes, pudiendo instalarse personalizado para su industria, dentro de sus aspiraciones.
+La separación de enteros y quebrados es excelente, no se encuentran mas del 5% de granos quebrados junto a los granos enteros seleccionados. ( Arroz tipo 1 grano premium). De esta manera, no se encontrarán ½ granos y granos enteros junto a los quebrados chicos.
+En la búsqueda de un producto con 100% de granos enteros, puede ser instalado antes de un trieur.
+Principales características:
+ Compacto y de buena construcción. Ajustes precisos, rotación variable y fácil manejo.
+ Alta performance;
+ Tiene sistema automático de limpieza de zarandas;
+ Dispone de 4 capas de zarandas, bajo nivel de granos quebrados grandes junto a los granos enteros (menos de 5%)
+ Trabajo estable y silencioso
+ Tres modelos a su disposición.
+Modelo/ descripción
+MMJP 100 x 3
+MMJP 100 x 4
+MMJP 120 x 4
+Capacidad
+2,0 ~3,0 ton/h
+2,5 ~3,5 ton/h
+3,5 ~4,5 ton/h
+Potencia
+1,10 kw
+1,10 kw
+1,10 kw
+Peso
+620 Kg
+656 Kg
+720 Kg
+
+===== FILE: comments_feed_.html =====
+404 Not Found
+404 Not Found
+nginx
+
+===== FILE: cont_index.html.html =====
+.. TERRASOL ..
+
+===== FILE: contacto.html.html =====
+.. TERRASOL ..
+TERRASOL S.A.
+Montevideo, Uruguay
+Tel/Fax:(00598) 2902 2632 /2908 7258
+terrasol@adinet.com.uy
+
+===== FILE: descascarado_arroz.html.html =====
+.. TERRASOL ..
+Descascarador MLGQ25
+
+===== FILE: descascarado_arroz_MLGQ.html.html =====
+Descascarador MLGQ 25
+El nuevo descascarador de arroz modelo MLGQ 25, acompaña la tendencia mundial, iniciada en Alemania, de un sistema alimentador que posee de caja para acondicionamiento de los granos y controlar mayor velocidad de los mismos.
+Como la mayoría de los descascaradores de esta tendencia, utiliza rodillos descascaradores de 10 x 10  y como opción si el cliente así lo deseara, los rodillos descascaradores Nº 5.
+El modelo GREEN HORSE MLGQ 25 muestra como diferencial la calidad de los materiales empleados en su Producción y la moderna tecnología de Producción con el uso de corte láser, balanceados electrónicos, pintura en epòxi fundido, mayor robustez que se puede verificar por la diferencia de peso entre este modelo y los otros que están en el mercado
+Lo que hace la gran diferencia es el tubo, que es movible, acompañando de esta manera el desgaste de los rodillos descascaradores, tirando siempre los granos de arroz en el espacio entre los dos rodillos, disminuyendo el porcentaje los granos quebrados.
+MODELO/ESPECIFICACIONES
+MLGQ 25
+Capacidad de Producción
+5 ~6 toneladas/hora
+Dimensiones
+1.500 x 1.780 x 2.800
+Potencia
+7,5 kw + 3,7 kw
+Rodillos de goma
+10” x 10” o #5
+Peso líquido
+1.230 Kg
+
+===== FILE: envasado_arroz.html.html =====
+.. TERRASOL ..
+Lorem Ipsum
+Lorem Ipsum
+
+===== FILE: feed_.html =====
+404 Not Found
+404 Not Found
+nginx
+
+===== FILE: INDEX.html =====
+.. TERRASOL ..
+- Limpieza y Prelimpieza
+- Maquinaria Sacapiedra
+- Proceso de Descascarado
+- Separado y Clasificado
+- Blanqueado o BruÃ±ido
+- ClasificaciÃ³n de Quebrados
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Limpieza y Prelimpieza
+- Plansifter, Tamizado de Trigo
+- Banco de CilÃ­ndros para Trigo
+- Disgregadores y purificadores
+- Quita Impuresas y Fitro de Manga
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Silos Galvanizados Fondo CÃ³nico
+- Silos Galvanizados Fondo Plano
+- Silos Redondos (?)
+- Elevadores
+- Cinta Trasportadora
+- Completely different.
+- Balanzas de Flujo
+- Embolsadora al Vacio
+- Cosedora
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- And now...
+- For something...
+- Completely different.
+
+===== FILE: index.html.html =====
+.. TERRASOL ..
+- Limpieza y Prelimpieza
+- Maquinaria Sacapiedra
+- Proceso de Descascarado
+- Separado y Clasificado
+- Blanqueado o BruÃ±ido
+- ClasificaciÃ³n de Quebrados
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Limpieza y Prelimpieza
+- Plansifter, Tamizado de Trigo
+- Banco de CilÃ­ndros para Trigo
+- Disgregadores y purificadores
+- Quita Impuresas y Fitro de Manga
+- Maquinaria de Envasado
+- Repuestos y Accesorios
+- Silos Galvanizados Fondo CÃ³nico
+- Silos Galvanizados Fondo Plano
+- Silos Redondos (?)
+- Elevadores
+- Cinta Trasportadora
+- Completely different.
+- Balanzas de Flujo
+- Embolsadora al Vacio
+- Cosedora
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- Selectora ElectrÃ³nica
+- For something...
+- Completely different.
+- And now...
+- For something...
+- Completely different.
+
+===== FILE: limpieza_arroz.html.html =====
+.. TERRASOL ..
+Limpieza TQLZ aire/zaranda
+Prelimpieza Rotativa TQLM 125
+
+===== FILE: limpieza_arroz_TQLM.html.html =====
+PRELIMPIEZA ROTATIVA TQLM 125
+Estas prelimpieza de elegante diseño, de construcción robusta, esta fabricada bajo las normas de calidad ISO 9001.
+Sustituye a las prelimpiezas que se adaptaban para el uso de prelimpieza final que ocupaban un espacio muy grande, generando ruido y polvo, afean y contaminan las industrias de granos, dejando además mucho que desear en cuanto a su funcionalidad.
+Combinada con captor de polvo, disponible para el modelo, estos equipos tienen varias funciones al mismo tiempo. Elimina las impurezas grandes, las pequeñas, las semillas chicas, el polvo y otras impurezas del producto que seleccionado.
+Hay una gran variedad de zarandas que se seleccionan según el producto que se limpiará y permite el ajuste de la rotación y del peso del block de balanceo, modificando la amplitud y logrando una optima limpieza del producto.
+Principales características:
+Construcción compacta, funcionamiento estable y silencioso;
+Efectiva limpieza y poco ruido en trabajo
+Bajo consumo de energía
+Ocupa poco espacio físico
+Moderno y agradable diseño, construcción robusta y excelente terminación.
+Modelo y especificaciones
+TQLM 125
+Capacidad
+8 ~25 ton/hora
+Ancho de la zaranda
+1250 mm
+Angulo de inclinación
+7,5º
+Rotaciones por Minuto
+300 – 400 – 500
+Potencia
+0,75 kw
+Volumen de aire
+55 m³/ minuto
+Peso
+800 kg .
+Dimensiones
+2.140 x 1.650 x 1.460 mm
+
+===== FILE: limpieza_arroz_TQLZ.html.html =====
+MAQUINA DE SEGURIDAD TQLZ
+aire/zaranda
+para grano seco
+CON COLUMNA DE AIRE. Este equipo fue desarrollado para trabajar en dos funciones distintas e importantes en la industria arrocera y de otros cereales y granos.
+Actúa como eficiente MAQUINA DE LIMPIEZA, retirando impurezas más grandes y más chicas que un grano de arroz y el polvo.
+Cada equipo podrá venir de fábrica configurada de acuerdo con las necesidades de cada industria.
+Como LIMPIEZA DE SEGURIDAD, es usada antes del empaquetado del producto, asegurando total ausencia de grandes y menores impurezas del producto seleccionado, inclusive polvo.
+Retira del arroz pulido los eventuales grumos de afrechillo y otras impurezas como insectos, piedras y otros cuerpos extraños más grandes que un grano de arroz.
+Usado inmediatamente antes de las máquinas de empaquetado, este equipo elimina también impurezas finas como polvo, pequeños granos quebrados de arroz, puntas de arroz, insectos pequeños entre otros.
+Es el mejor, mas compacto, más eficiente y más económico equipo para que su industria tenga la seguridad de una eficaz eliminación de elementos extraños en sus paquetes.
+CARACTERÍSTICAS:
+ Construcción extremadamente robusta y con muy buena terminación, aspecto elegante que valoriza su industria.
+ Equipo sellado, inmune a la producción de polvo en el ambiente en que está instalada.
+ Funcionamiento extremadamente silencioso, bajo consumo de energía.
+ Movimientos estables, sistema de autolimpieza de zarandas.
+Alta producción y eficiencia de selección
+-. Equipados con dos motos reductores, poseen ajuste de inclinación, de dirección de la inclinación, de vibración y de alimentación
+-.Separación perfecta de grandes y pequeñas impurezas: este equipo remueve grumos de afrechillo/salvado, polvo y pequeños granos quebrados de arroz, sin causar ninguna perdida o partido de granos enteros, manteniendo el brillo del arroz;
+-.De fácil instalación: equipo compacto, liviano y de fácil manejo, sin vibraciones puede ser instalado arriba de los silos de empaquetado o próximo al elevador que alimenta los mismos.
+-.Fácil manutención, equipos con sólida estructura y pocas piezas movibles lo que garantiza una muy baja manutención y gastos de operador.
+MODELO
+TQLZ150X200
+TQLZ125X200
+TQLZ100X200
+TQLZ80X150
+PRODUCCION
+9 ~15 TON/h
+9 ~12 TON/h
+8 ~12 TON/h
+5 ~8 TON/h
+POTENCIA
+0,75 kw X 2
+0,75 kw X 2
+0,38 kw X 2
+0,20 kw X 2
+AR – M³/h
+4800 ~7200
+4500 ~2550
+3600 ~4500
+2600 ~3000
+PESO Kg
+1.100
+1.000
+900
+650
+DIMENSION mm
+2616X1995
+2703X2324
+2640X1610
+2455X1286
+
+===== FILE: limpieza_trigo.html.html =====
+.. TERRASOL ..
+TQLZ Limpieza AutomÃ¡tica
+TQSF Saca Piedras
+TQLMZ Limpieza AutomÃ¡tica
+
+===== FILE: limpieza_trigo_TQLMZ.html.html =====
+TQLMZ Limpieza Automática
+Diseño de avanzada y de manufactura excelente.
+Tres movimientos, en círculo en elipse y en línea recta combinada.
+Dos mallas de tamizado con hoyos redondos hace que la maquina separe las impurezas gruesas y finas de manera eficiente.
+El dispositivo de presionar firmemente en el cuello en ambos lados del tamiz le permite hacerlo de manera uniforme hacia arriba, abajo derecha e izquierda.
+El sistema de suspensión con cable de acero reduce la resistencia del movimiento, ajustándose libremente.
+Con el hueco mirador en el techo se hace más fácil observar y limpiar la superficie del tamiz.
+
+===== FILE: limpieza_trigo_TQLZ.html.html =====
+TQLZ Limpieza Automática
+Excelente diseño de avanzada que garantizan una vida útil de muchos años.
+Dos pisos de zarandas dan a la maquina los mejores efectos de limpieza.
+La oblicuidad de la red de tamiz es ajustable al flujo del material.
+Dos motores vibradores dirigen la maquina de manera simple y función suave.
+Bajo costo y bajo sonido de operación.
+
+===== FILE: limpieza_trigo_TQSF.html.html =====
+TQSF Saca Piedras
+Doble función, clasificador y sacador de piedras, separa el grano en pesados y ligeros.
+Sin escape del polvo hacia fuera y bajo nivel de sonido operacional, es eficiente y seguro.
+Su diseño moderno hace que la maquina trabaje suave y con un mínimo de mantenimiento.
+El selector de gravedad de TQSF realiza una separación continua de la piedra de la corriente de granos y califica el cereal en piezas ligeras y pesadas. Esta máquina tiene una superficie de trabajo con dos tamices: el primero divide el flujo en piezas ligeras y pesadas; el segundo separa los cuerpos extraños con pesos mayores que el del grano, tales como piedras o mordidas de cristal o metal.
+
+===== FILE: purificador_trigo.html.html =====
+.. TERRASOL ..
+FQFD Purificador Mesa DensimÃ©trica
+FSLZ Disgregador
+
+===== FILE: purificador_trigo_FQFD.html.html =====
+FQFD Purificador Mesa Densimétrica
+Diseño de avanzada: Varios modelos a elección del cliente: Tipo 750, 590, 490, 380
+Todas las planchas de acero cortadas con maquina cortadora a láser.
+Plegadas en prensa de doble.
+Soldadas con sistema de protección con gas CO2.
+Técnica especial de ensamblado y soldado.
+Tablero de aleación de aluminio.
+Aleación de aluminio en lugar de acero para una mayor calidad.
+Detalles:
+Superficie principal resbaladiza y marco de tamiz con aleación de aluminio adaptada.
+Poste de cepillo de plástico, Poste deslizante de acero inoxidable.
+Pecho de entrada y canal de transporte de aleación de aluminio
+Caña de caucho de importación.
+Resortes importados y adaptados.
+Hélice de aspiración entera y motor vibrador doble con modo de conducción.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: purificador_trigo_FSLZ.html.html =====
+FSLZ Disgregador
+Excelente diseño de avanzada que garantiza una vida útil de muchos años.
+Testeo de rotor por balance hace a la maquina operar suavemente.
+Perno redondo y cuadrado hechos para tratamientos especiales de calor hacen que la maquina funcione en forma optima durante muchos años.
+Varios tipos (verticales y horizontales) a elegir según necesidades del cliente.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: quienes.html.html =====
+.. TERRASOL ..
+TERRASOL S.A.
+Fundada en 1983, desde el aÃ±o 2004 representa, importa y
+vende en el MERCOSUR y Europa la maquinaria china GREEN
+HORSE con tecnologÃ­a japonesa y alemana, para las industrias
+de arroz, trigo, soja y fÃ¡brica de raciones.
+En arroz: desde los silos de fondo cÃ³nico,prelimpieza, hasta mÃ¡quinas eletrÃ³nicas.
+Con 50 aÃ±os de actividad comercial y gracias
+a vuestro apoyo, seguimos creciendo.
+
+===== FILE: quitaimpuresas_trigo.html.html =====
+.. TERRASOL ..
+TBLM Filtro de Manga
+FDMW Quitador de Impuresas
+
+===== FILE: quitaimpuresas_trigo_FDMW.html.html =====
+FDMW Quitador de Impuresas
+Diseño de avanzada: Rotor de testeo por balance hace que la maquina opere de manera suave.
+Superficie del tablero con tratamiento de calor hace una terminación buena de la superficie.
+Red del tamiz hecho en acero inoxidable favoreciendo un funcionamiento eficiente.
+Tablero con forma especial le brinda a la maquina una gran capacidad y eficiencia.
+Ajuste y manejo sencillo.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: quitaimpuresas_trigo_TBLM.html.html =====
+TBLM Filtro de Manga
+Método de fabricación avanzada.
+Todo el tablero de acero fue cortado con láser, tubos de paño asegurados y ordenados de manera igualitaria para una fácil instalación.
+Protectores de soldadura con gas CO2.
+Materiales especiales:
+Planchas de acero de alta calidad.
+Válvula sopladora eléctrica y partes de control de mejor calidad.
+Envestidura de filtro de la mejor calidad.
+Motor y bolsa de aire de la mejor calidad.
+Filtro inyector de aire de alta calidad con instrumentación anti-presión.
+Varios modelos disponibles:
+26,39,52,78,104,130,156 tubos de envestidura.
+1800, 2000, 2400 de largo.
+Diseño acorde a las exigencias del cliente (como ser presión alta y baja del ventilador)
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: repuestos_arroz.html.html =====
+.. TERRASOL ..
+Lorem Ipsum
+Lorem Ipsum
+
+===== FILE: sacapiedra_arroz.html.html =====
+.. TERRASOL ..
+Eliminador de Piedras TQS
+Sacapiedra Motor Vibrador TQSF
+
+===== FILE: sacapiedra_arroz_TQS.html.html =====
+STONER  ELIMINADOR DE PIEDRAS TQS
+Los eliminadores de piedras GREEN HORSE, usan succión y gravedad para hacer perfecto el trabajo.
+Además de arroz, pueden ser utilizados en otros granos o productos granulados como poroto, soja, trigo, maní, plástico granulado, etc.
+Son de gran importancia en el procesado de estos productos, eliminando piedras y otros contaminantes de peso específico más elevado que el producto seleccionado.
+Sus principales características son:
+Alta eficiencia en la remoción de piedras, partes metálicas y otras impurezas, garantizando al producto seleccionado la pureza y la integridad de los equipos que lo preceden.
+La variación de la inclinación de estos equipos varía de 10º a 14 º dependiendo del producto que se seleccionó.
+Este regulado permite el mejor efecto para cada producto seleccionado.
+Se trata de equipos totalmente sellados, con ventilador externo, garantizando su total limpieza en el local donde será instalado.
+El polvo que se genera en el manejo es ciclonado y retirado para su destino final.
+Los sistemas de articulación provienen de los rodillos lo que garantiza la durabilidad y el trabajo estable, además de poco ruido.
+Modelos
+Capacidad
+Potencia kw
+Dimensiones mm
+Peso kg.
+TQS x 85
+4,0 ~6,0 t/h
+0,75
+1545x980x1982
+350
+TQS x 100
+5,0 ~7,0 t/h
+0,75
+1545x1130x1982
+380
+TQS x 125
+6,0 ~8,0 t/h
+1,1
+1545x1380x1982
+450
+
+===== FILE: sacapiedra_arroz_TQSF.html.html =====
+STONER con Motor Vibrador TQSF
+(Eliminador de piedras)
+MODELOS PARA TODAS LAS NECESIDADES
+Los eliminadores de piedras GREEN HORSE, usan succión y gravedad para hacer perfecto el trabajo.
+Además de arroz, pueden ser utilizados en otros granos o productos granulados como poroto, soja, trigo, maní, plástico granulado, etc.
+Son de gran importancia en el procesado de estos productos, eliminando piedras y otros contaminantes de peso específico más elevado que el producto seleccionado.
+Sus principales características son:
+Alta eficiencia en la remoción de piedras, partes metálicas y otras impurezas, garantizando al producto seleccionado la pureza y la integridad de los equipos que lo preceden.
+La variación de la inclinación de estos equipos varía de 10º a 14 º dependiendo del producto que se seleccionó.
+Este regulado permite el mejor efecto para cada producto seleccionado.
+Se trata de equipos totalmente sellados, con ventilador externo, garantizando su total limpieza en el local donde será instalado.
+El polvo que se genera en el manejo es ciclonado y retirado para su destino final.
+Los sistemas de articulación provienen de los rodillos lo que garantiza la durabilidad y el trabajo estable, además de poco ruido.
+Modelos
+Capacidad
+Potencia kw
+Dimensiones mm
+Peso kg.
+TQSF 100 x 2
+5,0 X 12 T/H
+0.3 X 2
+1580X1316X1875
+500
+TQSF 120 X 2
+6,0 – 15 T/H
+0.3 X 2
+1580X1516X1875
+600
+
+===== FILE: separado_arroz.html.html =====
+.. TERRASOL ..
+Separador de Paddy MGCZ
+Clasificador de Perfil MJXH
+
+===== FILE: separado_arroz_MGCZ.html.html =====
+Separador de Paddy MGCZ 40x20 de alta eficiencia
+Separador de paddy de tableros oscilantes, con mecánica de alta
+calidad y excelente balanceado hacen un producto diferente a
+los equipos tradicionales disponibles en el mercado.
+Las piezas más importantes son fabricadas en acero alemán en una
+fabrica moderna con equipos de corte láser y balanceado electrónico.
+Las nuevas bandejas patentadas, con alvéolos con el tamaño especial
+para el grano largo y super largos, aumentan su capacidad y eficiencia de separación, reduciendo los retornos y disminuyendo en gran cantidad el número de marineros junto al arroz descascarado.
+Se pueden suministrar bandejas (zarandas) con alvéolos para grano
+corto o grano medio, como extras, para lograr mayor eficiencia de
+acuerdo a tipo de grano.
+Sus principales características son:
+ Construcción mecánica robusta y acabado impecable.
+ Nuevo sistema constructivo que evita el desbalanceo común de
+los equipos tradicionales.
+ Adopta patrones de calidad internacionales, su fabricación es
+realizada en su mayoría en aceros alemanes de la más alta calidad.
+ Los equipos están provistos de un sistema automático de parada
+y partida y un sistema de control de flujo.
+ Ocupa menor área en relación con la productividad alcanzada
+ Apariencia muy linda que valoriza su industria.
+MODELO
+MGCZ 40 X 20 X 2
+PRODUCCION
+6,0 ~ 8,0 T/h
+CONSUMO
+2,2 kw
+DIMENSIONES
+1805X2230X2240
+PESO
+1.160 kg
+
+===== FILE: separado_arroz_MJXH.html.html =====
+Clasificador de Perfil MJXH de cilindro ondulado
+La característica principal de un buen clasificador de perfil es que tenga sus cilindros de clasificación ondulados.
+Estas ondulaciones ubican los granos de arroz de forma de permitir una ubicación perfecta para su selección. Si el cilindro de selección de un equipo similar fuera liso, descarte la oferta pues es una imitación grosera e ineficiente. Es verdad que seleccionan algunos granos, pero también es verdad que dejan pasar la mayoría de los granos yesados.
+La función principal de este equipo es eliminar mecánicamente los granos yesados, disminuyendo así la necesidad de selectores electrónicos en hasta 50% o más, dependiendo del producto que se seleccione.
+Las características principales de este equipo son:
+Construcción mecánica perfecta, excelente terminación y apariencia.
+Zaranda realizada de material de alta resistencia, con cortes realizados con precisión al nivel de décima de milímetro
+Distintas aberturas disponibles pues los granos de arroz varían sus tamaños de acuerdo con la variedad y también de acuerdo a las variaciones climáticas producidas durante la zafra.
+Equipos que constan de un sistema autolimpiante equipado de Rubber strips de alta duración.
+Equipos de funcionamiento suave, poco ruido, equipado con sistema de recogida de polvo entrelazado en el sistema general de levantado del polvo de la industria.
+MODELO
+MJXH 29 X 6
+CAPACIDAD
+6,00 TON/h
+POTENCIA kw
+1,10 + 0,55
+DIMENSIONES mm
+2.000 X 1.0505 X 2.350
+PESO
+850 Kg
+
+===== FILE: tamizado_trigo.html.html =====
+.. TERRASOL ..
+FSFJ Mono Plansifter
+FSFJ Doble Plansifter
+FSFG Plansifter
+
+===== FILE: tamizado_trigo_FSFG.html.html =====
+FSFG Plansifter
+Técnica de absorción avanzada hace de nuestro plansifter el mejor diseño.
+Diseño compacto: Marco del tamiz de acero, tablero superior e inferior de acero compactado por prensa de freno. Marco de base del tamiz formado con postede aleación de acero. Marco del tamiz de acero lateral compactado por prensa de freno.
+Sistema de maquinaria avanzado
+Todo el marco de acero cortado con rayo láser y compactado con prensa de freno.
+Sistema de soldadura de gas CO2.
+Tést de vibración de grado rápido en el método de soldado.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: tamizado_trigo_FSFJ.html.html =====
+FSFJ Mono Plansifter
+Diseño Razonable de excelente fabricación, el mejor equipo para testeo del material.
+Tamiz de marco de metal y plástico en las dos superficies.
+Manejo del motor con auto-balance bajo el cuerpo de la maquina.
+Marco ajustado al tamiz en sentido vertical y horizontal prevé la perdida de material hacia fuera.
+Motor de alta velocidad y ciclo circular de pequeño diámetro permite un alto efecto de tamizado.
+Sin suspensión, instalado y desmantelado libre.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: tamizado_trigo_FSFJx2.html.html =====
+FSFJ Doble Plansifter
+Diseño Razonable de excelente fabricación, el mejor equipo para testeo del material
+Tamiz de marco de metal y plástico en las dos superficies.
+Manejo del motor con auto-balance bajo el cuerpo de la maquina.
+Presurización confiable prevé la perdida de material hacia fuera.
+Maquina con dos o cuatro secciones provee un área de tamizado grande permitiendo un buen efecto de tamizado.
+Sin suspensión, instalado y desmantelado libre.
+gFSFJduo gFSFJmono gFSFG
+
+===== FILE: wp-json_wp_v2_pages_39.html =====
+404 Not Found
+404 Not Found
+nginx

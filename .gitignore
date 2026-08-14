@@ -1,4 +1,8 @@
-node_modules
-dist
+# Descargas intermedias de las generaciones de video (24 MB).
+# Las versiones finales, recortadas y comprimidas, están en site/assets/video/.
+recuperado/*.mp4
+recuperado/shot1-frame.jpg
+
+node_modules/
 .DS_Store
-.env
+Thumbs.db

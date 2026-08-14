@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>.. TERRASOL ..</title>
+<link href="css/main.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/slidemenu.js"></script>
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery.accordion.js"></script>
+    
+    <script type="text/javascript" src="jquery.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$(".accordion2 h3").eq(2).addClass("active");
+	$(".accordion2 p").eq(2).show();
+
+	$(".accordion2 h3").click(function(){
+		$(this).next("p").slideToggle("slow")
+		.siblings("p:visible").slideUp("slow");
+		$(this).toggleClass("active");
+		$(this).siblings("h3").removeClass("active");
+	});
+
+});
+</script>
+    
+    <script type="text/javascript">
+	jQuery().ready(function(){
+		jQuery('#list1b').makeAccordion({
+			autoheight: false
+		});
+	});
+	</script>
+    </head>
+
+<body onload="slideMenu.build('sm',600,10,10,1)">
+	<div class="global">
+		<div class="header">
+        		<a href="index.html" class="logo"><img src="img/logo.png" alt="TERRASOL" width="429" height="93" border="0" /></a>
+                <ul class="menu">
+           	    <li> <a class="inicio" href="index.html"></a></li>
+                    <li><a href="quienes.html" target="contenido" class="quienes"></a></li>
+                    <li><a href="" class="clientes"></a></li>
+                    <li><a href="contacto.html" target="contenido" class="contacto"></a></li>
+                    <li><a href="" class="links"></a></li>
+                    <li><img src="img/head_right.jpg" width="30" height="45" border="0" /></li>
+                 </ul>
+        		<img src="img/head_down.jpg" width="577" height="48" border="0" />
+        </div>
+        
+        
+        <div class="accordion2">
+       	  <div class="basic" id="list1b"><span><img src="img/maq_tit.png" alt="Maquinaria" width="205" height="48" border="0" /></span>
+
+	<h3 class="arroz"></h3><p>
+  <a href="limpieza_arroz.html" target="contenido">
+					- Limpieza y Prelimpieza
+		</a>
+                <a  href="sacapiedra_arroz.html" target="contenido">
+                	- Maquinaria Sacapiedra
+              </a>
+                 <a href="descascarado_arroz.html" target="contenido">
+	                 - Proceso de Descascarado
+                 </a>
+                 
+                                  <a href="separado_arroz.html" target="contenido">
+	                 - Separado y Clasificado
+                 </a>
+                                 <a  href="blanqueado_arroz.html" target="contenido" >
+					- Blanqueado o BruÃ±ido
+				</a>
+
+                <a  href="clasificado_arroz.html" target="contenido">
+                	- ClasificaciÃ³n de Quebrados
+              </a>
+                 <a  href="envasado_arroz.html" target="contenido">
+	                 - Maquinaria de Envasado
+                 </a>
+                 <a  href="repuestos_arroz.html" target="contenido">
+	                 - Repuestos y Accesorios
+        </a> </p>
+	<h3  class="granos"></h3>
+	<p>
+    <a href="limpieza_trigo.html" target="contenido">
+					- Limpieza y Prelimpieza
+		</a>
+                <a  href="tamizado_trigo.html" target="contenido">
+                	- Plansifter, Tamizado de Trigo
+              </a>
+                 <a href="banco_trigo.html" target="contenido">
+	                 - Banco de CilÃ­ndros para Trigo
+                 </a>
+                                 <a  href="purificador_trigo.html" target="contenido" >
+					- Disgregadores y purificadores
+				</a>
+                <a  href="quitaimpuresas_trigo.html" target="contenido">
+                	- Quita Impuresas y Fitro de Manga
+              </a>
+                 <a  href="envasado_arroz.html" target="contenido">
+	                 - Maquinaria de Envasado
+                 </a>
+                 <a  href="repuestos_arroz.html" target="contenido">
+	                 - Repuestos y Accesorios
+        </a> </p> 
+	<h3 class="transporte"></h3>
+	<p> <a>- Silos Galvanizados Fondo CÃ³nico
+				</a>
+                <a>
+                	- Silos Galvanizados Fondo Plano
+              </a>
+                 <a>
+	                 - Silos Redondos (?)
+                 </a></p>
+	<h3 class="selectoras"></h3>
+		<p>
+        				<a>
+					- Elevadores
+				</a>
+                <a>
+                	- Cinta Trasportadora
+              </a>
+                 <a>
+	                 - Completely different.
+                 </a>
+	    </p>
+	<h3 class="empaquetadoras"></h3>
+		<p>
+        				<a>
+					- Balanzas de Flujo
+				</a>
+                <a>
+                	- Embolsadora al Vacio
+              </a>
+                 <a>
+	                 - Cosedora
+                 </a>
+        </p>
+    <h3 class="balanzas"></h3>
+	<p>
+        <a>
+					- Selectora ElectrÃ³nica
+		</a>
+                <a>
+                	- For something...
+              </a>
+                 <a>
+	                 - Completely different.
+                 </a>
+    
+    </p>
+    <h3 class="silos"></h3>
+		<p>
+        <a>
+					- Selectora ElectrÃ³nica
+		  </a>
+                <a>
+                	- For something...
+              </a>
+                 <a>
+	                 - Completely different.
+                 </a>
+        </p>
+    	<h3 class="frio"></h3>
+		<p>
+        <a>
+					- And now...
+		  </a>
+                <a>
+                	- For something...
+              </a>
+                 <a>
+	                 - Completely different.
+                 </a>
+        
+        
+    	</p>
+	 <span><img src="img/maq_bottom.png" alt="" width="205" height="12" border="0" /></span>
+     
+     
+      </div>
+      
+      
+</div>
+        
+        	<div class="right">
+        
+    		<iframe name="contenido" class="iframe" src="cont_index.html" frameborder="o" scrolling="no">
+    			   
+            
+        
+	        <!--     /*cierre right***/   -->
+    	    </iframe>
+            </div>
+    <!--     /*cierre global*/   -->
+    
+    <div class="footer"></div>
+    
+    	</div>
+	
+
+
+</body>
+</html>
