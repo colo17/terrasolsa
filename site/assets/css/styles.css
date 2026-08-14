@@ -283,6 +283,10 @@ p { text-wrap: pretty; }
   margin-bottom: 1.75rem;
 }
 .hero__kicker b { background: var(--green); color: #fff; padding: .2rem .55rem; border-radius: 100px; font-weight: 700; letter-spacing: .08em; }
+/* Oculto a pedido, pero con visibility en vez de display para que conserve su
+   caja y el título no suba a ocupar ese lugar. En celular sí se colapsa
+   (ver el bloque de ajustes mobile al final). */
+.hero__kicker { visibility: hidden; }
 .hero h1 { color: #fff; margin-bottom: 1.4rem; }
 .hero h1 em { font-style: normal; color: #62d69b; }
 .hero__lead { font-size: clamp(1.06rem, 1.7vw, 1.28rem); color: rgba(255,255,255,.85); max-width: 620px; line-height: 1.58; }
@@ -711,10 +715,19 @@ p { text-wrap: pretty; }
 }
 
 /* El sello "Desde 1983 · Representante oficial GREEN HORSE" envuelve en dos
-   líneas y ocupa 61px arriba del título. Fuera en celular: el dato ya está en
-   la sección "Quiénes somos" y en el pie. */
+   líneas y ocupa 61px arriba del título. En celular se colapsa del todo (en
+   escritorio queda su hueco, ver .hero__kicker más arriba). */
 @media (max-width: 700px) {
   .hero__kicker { display: none; }
+}
+
+/* En pantallas chicas el contenido del hero es más alto que el hero, así que
+   el padding superior sí manda: con 48px el título quedaba 29px por debajo del
+   header, que mide 76px. Se le da la altura del header más aire.
+   Como el hero alinea el contenido abajo, esto no mueve nada cuando el
+   contenido entra holgado. */
+@media (max-width: 820px) {
+  .hero__inner { padding-top: calc(76px + 2.25rem); }
 }
 
 /* En el inicio, 4 equipos destacados en 2 filas de 2. Los otros cuatro siguen
