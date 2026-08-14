@@ -698,6 +698,31 @@ p { text-wrap: pretty; }
 @media (max-width: 860px) { .footer__grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 520px) { .footer__grid { grid-template-columns: 1fr; } }
 
+/* ============================================================
+   AJUSTES SOLO PARA CELULAR
+   ============================================================ */
+
+/* La hamburguesa contra el borde derecho. Cuando el menú pasa a
+   position:fixed sale del flujo, así que sin esto el botón queda pegado a la
+   marca, en el medio del header. El margen negativo lo alinea ópticamente con
+   el logo, compensando el padding interno del propio botón. */
+@media (max-width: 1060px) {
+  .burger { margin-left: auto; margin-right: -.45rem; }
+}
+
+/* El sello "Desde 1983 · Representante oficial GREEN HORSE" envuelve en dos
+   líneas y ocupa 61px arriba del título. Fuera en celular: el dato ya está en
+   la sección "Quiénes somos" y en el pie. */
+@media (max-width: 700px) {
+  .hero__kicker { display: none; }
+}
+
+/* En el inicio, 4 equipos destacados en 2 filas de 2. Los otros cuatro siguen
+   en el HTML para escritorio; el catálogo completo está a un clic. */
+@media (max-width: 820px) {
+  .grid-destacados .card:nth-child(n + 5) { display: none; }
+}
+
 /* ---------- Utilidades ---------- */
 .reveal { opacity: 0; transform: translateY(18px); transition: opacity .7s var(--ease), transform .7s var(--ease); }
 .reveal.is-in { opacity: 1; transform: none; }
