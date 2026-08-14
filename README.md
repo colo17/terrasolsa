@@ -110,9 +110,23 @@ El script `src/fetch-imagenes.ps1` documenta qué generación produjo cada archi
 
 ## Publicación
 
-`site/` es estático puro: sirve cualquier hosting. Netlify, Cloudflare Pages o Vercel funcionan
-arrastrando la carpeta. En el HostGator actual alcanza con subir el contenido de `site/` a
-`public_html/`.
+Repositorio: https://github.com/colo17/terrasolsa (rama `main`).
 
-> ⚠️ Antes de publicar: **el dominio terrasolsa.com vence el 21/09/2026.** Ver
-> `INFORMACION-RECUPERADA.md`, sección 1.
+`site/` es estático puro, sin build: lo sirve cualquier hosting.
+
+- **Vercel** — el `vercel.json` de la raíz ya declara `outputDirectory: "site"` y desactiva
+  build e install. Con el repo conectado, cada push a `main` publica solo.
+- **Netlify / Cloudflare Pages** — sin comando de build, directorio de salida `site`.
+- **GitHub Pages** — Pages solo puede servir desde la raíz o `/docs`, así que habría que mover
+  el contenido de `site/` a la raíz o publicar con una acción que suba esa carpeta.
+- **HostGator (el hosting actual)** — subir el *contenido* de `site/` a `public_html/`,
+  no la carpeta.
+
+Flujo normal de cambios:
+
+```bash
+node src/build.mjs; node src/checklinks.mjs; git add -A; git commit -m "..."; git push
+```
+
+> ⚠️ Antes de apuntar el dominio: **terrasolsa.com vence el 21/09/2026** y el HostGator
+> actual devuelve 503. Ver `INFORMACION-RECUPERADA.md`, sección 1.
