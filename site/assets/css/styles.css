@@ -381,12 +381,14 @@ p { text-wrap: pretty; }
 
 @media (max-width: 900px) {
   .scrolly__grid { grid-template-columns: 1fr; }
-  .scrolly__sticky { position: static; height: auto; padding-bottom: 0; }
-  .scrolly__title { min-height: 0; }
-  .scrolly__text { min-height: 0; }
-  .scrolly__diagram { display: none; }
+  /* El panel se oculta entero: sin sticky mostraba siempre el paso activo
+     como un bloque suelto arriba, duplicando el primer paso de la lista.
+     Sigue en el DOM porque el JS le escribe el estado; solo no se ve. */
+  .scrolly__sticky { display: none; }
   .scrolly__steps { padding: 2rem 0 0; }
   .scrolly__step { opacity: 1; }
+  /* La numeración que mostraba el panel pasa a cada paso: "01 / 10 · Almacenaje" */
+  .scrolly__step .step-tag::before { content: attr(data-paso) " · "; opacity: .72; }
 }
 
 /* ============================================================

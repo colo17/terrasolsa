@@ -208,9 +208,9 @@ export function home() {
         </div>
         ${etapas
           .map(
-            (e) => `
+            (e, i) => `
         <div class="scrolly__step" data-etapa="${e.id}" data-nombre="${esc(e.nombre)}" data-titulo="${esc(e.titulo)}" data-texto="${esc(e.texto)}">
-          <span class="step-tag">${esc(e.nombre)}</span>
+          <span class="step-tag" data-paso="${String(i + 1).padStart(2, '0')} / ${String(etapas.length).padStart(2, '0')}">${esc(e.nombre)}</span>
           <h3>${esc(e.titulo)}</h3>
           <p>${esc(e.texto)}</p>
           <a class="link-arrow" href="catalogo.html?etapa=${e.id}">Ver equipos de esta etapa ${A}</a>
